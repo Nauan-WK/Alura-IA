@@ -14,9 +14,6 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    border-style: solid;
-    border-radius: 15px;
-    border-color: white;
 }
 
 .caixa-principal{
